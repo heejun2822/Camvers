@@ -60,7 +60,7 @@
 
 ## 🎞 프로젝트 UCC
 
-![my_video](https://github.com/heejun2822/Camvers/issues/1#issue-1073980922)
+https://user-images.githubusercontent.com/77471690/145145429-380b505e-3fe3-4139-bdcc-f8fc18d4bfcb.mp4
 
 
 
